@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Sound Pilot",
+    "desc": "An intuitive and a scalable project for a DIY music playback system🎧",
+    "image": "soundpilot",
+    "category": "ccpp",
+    "links": {
+      "view": "https://github.com/Chirrenthen/Sound-Pilot",
+      "code": "https://github.com/Chirrenthen/Sound-Pilot"
+    }
+  },
+  {
+    "name": "Portfolio-Template",
+    "desc": "✨ A minimal OS-Style portfolio template for developers",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen13.netlify.app",
+      "code": "https://github.com/Chirrenthen/Portfolio-Template"
+    }
+  },
+  {
+    "name": "WeatherSense",
+    "desc": "Get accurate, real-time weather data for any location around the globe.",
+    "image": "weathersense",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/WeatherSense/",
+      "code": "https://github.com/Chirrenthen/WeatherSense"
+    }
+  },
+  {
+    "name": "PixlQR",
+    "desc": "A fast, responsive, and user-friendly QR code generator with a clean UI. Instantly generate QR codes for text or URLs—perfect for personal or professional use. ",
+    "image": "pixlqr",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/PixlQR/",
+      "code": "https://github.com/Chirrenthen/PixlQR"
+    }
+  },
+  {
+    "name": "ShelfSync",
+    "desc": "An advanced library management system that allows users to manage books and members.",
+    "image": "shelfsync",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/Chirrenthen/ShelfSync",
+      "code": "https://github.com/Chirrenthen/ShelfSync"
+    }
+  },
+  {
+    "name": "PortSync",
+    "desc": "A dual-server ESP32 chat system enabling password-protected, real-time messaging across two web ports with shared chat history and responsive UI",
+    "image": "portsync",
+    "category": "ccpp",
+    "links": {
+      "view": "https://github.com/Chirrenthen/PortSync/",
+      "code": "https://github.com/Chirrenthen/PortSync"
+    }
+  },
+  {
+    "name": "AtmoGuard AIO",
+    "desc": "An advanced application that automatically retrieves network and device details of your computer or mobile. It also generates and downloads a receipt of the information for your records.",
+    "image": "atmoguard",
+    "category": "ccpp",
+    "links": {
+      "view": "https://github.com/Chirrenthen/AtmoGuard-AIO/",
+      "code": "https://github.com/Chirrenthen/AtmoGuard-AIO"
+    }
+  },
+  {
+    "name": "Click Speed Test",
+    "desc": "A dynamic website to build your clicking speed and accuracy. It provides a timer and a counter to track your performance.",
+    "image": "click speed test",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Click_Speed_Test/",
+      "code": "https://github.com/chirrenthen/Click-Speed-Test"
+    }
+  },
+  {
+    "name": "Calendar",
+    "desc": "A basic calendar application that allows you to view the current month and year.",
+    "image": "calendar",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Calendar/",
+      "code": "https://github.com/chirrenthen/Calendar"
+    }
+  },
+  {
+    "name": "Gemini Chatbot",
+    "desc": "Gemini clone made using HTML, CSS, and JavaScript.",
+    "image": "gemini chatbot",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Gemini-Chatbot/",
+      "code": "https://github.com/Chirrenthen/Gemini-Chatbot"
+    }
+  },
+  {
+    "name": "NeoBank",
+    "desc": "An advanced banking application that allows users to create accounts, manage their finances, and perform transactions securely.",
+    "image": "neobank",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Chirrenthen/NeoBank",
+      "code": "https://github.com/Chirrenthen/NeoBank"
+    }
+  },
+  {
+    "name": "Snake Game",
+    "desc": "A fun and interactive snake game built using HTML, CSS, and JavaScript.",
+    "image": "snake game",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Snake-Game/",
+      "code": "https://github.com/Chirrenthen/Snake-Game"
+    }
+  },
+  {
+    "name": "Number to Roman Converter",
+    "desc": "A basic number to roman converter application built using HTML, CSS, and JavaScript.",
+    "image": "number to roman",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Number-to-Roman-Converter/",
+      "code": "https://github.com/Chirrenthen/Number-to-Roman-Converter"
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "A custom music player application built using HTML, CSS, and JavaScript.",
+    "image": "music player",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Music-Player/",
+      "code": "https://github.com/Chirrenthen/Music-Player"
+    }
+  },
+  {
+    "name": "Battery Tracker",
+    "desc": "A realtime battery status tracker application that provides information about the battery status of your device.",
+    "image": "battery tracker",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Battery-Tracker/",
+      "code": "https://github.com/Chirrenthen/Battery-Tracker"
+    }
+  },
+  {
+    "name": "Captcha Generator",
+    "desc": "A basic captcha generor appliction to generate and check captcha codes.",
+    "image": "captcha generator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Captcha-Generator/",
+      "code": "https://github.com/Chirrenthen/Captcha-Generator"
+    }
+  },
+  {
+    "name": "Drawing Application",
+    "desc": "An advanced drawing application that allows users to create and save their drawings.",
+    "image": "drawing application",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Drawing-Application/",
+      "code": "https://github.com/Chirrenthen/Drawing-Application"
+    }
+  },
+  {
+    "name": "Scientific Calculator",
+    "desc": "A basic scientific calculator application that allows users to perform scientific calculations.",
+    "image": "scientific calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Scientific-Calculator/",
+      "code": "https://github.com/Chirrenthen/Scientific-Calculator"
+    }
+  },
+  {
+    "name": "Image Editor",
+    "desc": "An advanced image editor application that allows users to edit images using various tools and features.",
+    "image": "image editor",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Image-Editor/",
+      "code": "https://github.com/Chirrenthen/Image-Editor"
+    }
+  },
+  {
+    "name": "Budget Application",
+    "desc": "A user friendly budget application that allows users to manage their finances, track expenses, and create budgets.",
+    "image": "budget application",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Budget-Application/",
+      "code": "https://github.com/Chirrenthen/Budget-Application"
+    }
+  },
+  {
+    "name": "Gradient Colour Generator",
+    "desc": "An advanced gradient colour generator application that allows users to create and customize gradient colors.",
+    "image": "gradient generator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Gradient-Colour-Generator/",
+      "code": "https://github.com/Chirrenthen/Gradient-Colour-Generator"
+    }
+  },
+  {
+    "name": "Typing Speed Test",
+    "desc": "A comprehensive typing speed test application that allows users to test and improve their typing speed and accuracy.",
+    "image": "typing speed",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Typing-Speed-Test/",
+      "code": "https://github.com/Chirrenthen/Typing-Speed-Test"
+    }
+  },
+  {
+    "name": "Text to speech converter",
+    "desc": "An interactive text to speech converter application that allows users to convert text into speech using advanced speech synthesis technology.",
+    "image": "text to speech",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Text-to-Speech-Converter/",
+      "code": "https://github.com/Chirrenthen/Text-to-Speech-Converter"
+    }
+  },
+  {
+    "name": "Quote Generator",
+    "desc": "An interactive quote generator application that automatically generates and displays quotes.",
+    "image": "quote generator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Quote-Generator/",
+      "code": "https://github.com/Chirrenthen/Quote-Generator"
+    }
+  },
+  {
+    "name": "Digital Alarm Clock",
+    "desc": "A basic digital alarm clock application that allows users to set alarms and manage their schedules.",
+    "image": "digital alarm",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Digital-Alarm-Clock/",
+      "code": "https://github.com/Chirrenthen/Digital-Alarm-Clock"
+    }
+  },
+  {
+    "name": "Dictionary Application",
+    "desc": "A simple engilsh dictionary application that allows users to search for words and their meanings.",
+    "image": "dictionary",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Dictionary-Application/",
+      "code": "https://github.com/Chirrenthen/Dictionary-Application"
+    }
+  },
+  {
+    "name": "Qr Code Scanner",
+    "desc": "A comprehensive QR code scanner that allows users to scan QR codes and retrieve information from them.",
+    "image": "qr scanner",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/QR-Scanner/",
+      "code": "https://github.com/Chirrenthen/QR-Scanner"
+    }
+  },
+  {
+    "name": "User Location",
+    "desc": "A user-friendly application that allows users to find their current location using GPS.",
+    "image": "user location",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/User-Location/",
+      "code": "https://github.com/Chirrenthen/User-Location"
+    }
+  },
+  {
+    "name": "To-Do List",
+    "desc": "A To-do list application that allows users to manage their tasks and stay organized.",
+    "image": "to do",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/To-Do-List/",
+      "code": "https://github.com/Chirrenthen/To-Do-List"
+    }
+  },
+  {
+    "name": "Speech to Text Converter",
+    "desc": "A speech to text application that allows users to convert speech into text.",
+    "image": "speech to text",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Speech-to-Text/",
+      "code": "https://github.com/Chirrenthen/Speech-to-Text"
+    }
+  },
+  {
+    "name": "Notes Application",
+    "desc": "A Notes application to create, edit, and delete notes.",
+    "image": "notes",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Notes/",
+      "code": "https://github.com/Chirrenthen/Notes"
+    }
+  },
+  {
+    "name": "Github Profile Searcher",
+    "desc": "A Github profile searcher application that allows users to search for Github profiles and view their details.",
+    "image": "github",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Github-Profile-Searcher/",
+      "code": "https://github.com/Chirrenthen/Github-Profile-Searcher"
+    }
+  },
+  {
+    "name": "Detect Internet Connection",
+    "desc": "An internet connection checker application that allows users to check their internet connection status.",
+    "image": "internet",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Detect-Internet-Connection/",
+      "code": "https://github.com/Chirrenthen/Detect-Internet-Connection"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "A user-friendly calculator application that allows users to perform basic calculations.",
+    "image": "calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://chirrenthen.github.io/Calculator/",
+      "code": "https://github.com/Chirrenthen/Calculator"
+    }
+  }
+]

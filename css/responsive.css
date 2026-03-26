@@ -1,0 +1,508 @@
+@media (max-width: 1200px) {
+    .skills-orbit-container {
+        width: 500px;
+        height: 500px;
+    }
+    
+    .skill-item {
+        width: 70px;
+        height: 70px;
+    }
+    
+    .skill-item img {
+        width: 35px;
+        height: 35px;
+    }
+}
+
+@media (max-width: 992px) {
+    .split-layout {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+    
+    .section-title {
+        font-size: 2.5rem;
+    }
+    
+    .title-icon {
+        font-size: 3rem;
+    }
+    
+    .glitch {
+        font-size: 3rem;
+    }
+    
+    .navbar {
+        padding: 10px 20px;
+        gap: 15px;
+    }
+    
+    .nav-item {
+        font-size: 18px;
+        padding: 8px 12px;
+    }
+    
+    .github-globe-container,
+    .intro-content {
+        height: auto;
+        min-height: 400px;
+    }
+    
+    #github-globe {
+        font-size: 80px;
+    }
+    
+    .github-stats {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .projects-grid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+    
+    .modal-body {
+        grid-template-columns: 1fr;
+    }
+    
+    .skills-orbit-container {
+        width: 400px;
+        height: 400px;
+    }
+    
+    .central-planet {
+        width: 120px;
+        height: 120px;
+    }
+    
+    .planet-core {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media (max-width: 768px) {
+    .section {
+        padding: 80px 15px;
+    }
+    
+    .container {
+        padding: 0 15px;
+    }
+    
+    .section-title {
+        font-size: 2rem;
+        margin-bottom: 40px;
+    }
+    
+    .title-icon {
+        font-size: 2.5rem;
+    }
+    
+    .glitch {
+        font-size: 2.5rem;
+    }
+    
+    .typing-container {
+        font-size: 1.2rem;
+        min-height: 60px;
+    }
+    
+    .cursor-blink {
+        font-size: 1.2rem;
+    }
+    
+    .social-links {
+        justify-content: center;
+    }
+    
+    .social-icon {
+        width: 45px;
+        height: 45px;
+        font-size: 18px;
+    }
+    
+    .cta-button {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+    
+    .navbar {
+        bottom: 10px;
+        padding: 10px 15px;
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+        max-width: 95%;
+    }
+    
+    .nav-item {
+        font-size: 16px;
+        padding: 8px 10px;
+    }
+    
+    .music-player,
+    .theme-toggle {
+        order: 10;
+    }
+    
+    .music-controls {
+        bottom: 50px;
+        right: auto;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    
+    .music-controls.hidden {
+        transform: translateX(-50%) translateY(10px);
+    }
+    
+    .github-stats {
+        grid-template-columns: 1fr;
+    }
+    
+    .stat-item {
+        justify-content: center;
+    }
+    
+    #github-globe {
+        font-size: 60px;
+    }
+    
+    .about-text {
+        font-size: 1rem;
+    }
+    
+    .timeline {
+        padding-left: 20px;
+    }
+    
+    .timeline-dot {
+        left: -25px;
+        width: 10px;
+        height: 10px;
+    }
+    
+    .skills-orbit-container {
+        width: 300px;
+        height: 300px;
+    }
+    
+    .central-planet {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .planet-core {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .skill-item {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .skill-item img {
+        width: 30px;
+        height: 30px;
+    }
+    
+    .skill-item span {
+        font-size: 0.6rem;
+    }
+    
+    .orbit-controls {
+        margin-top: 30px;
+    }
+    
+    .orbit-btn {
+        width: 45px;
+        height: 45px;
+        font-size: 18px;
+    }
+    
+    .project-filters {
+        gap: 10px;
+    }
+    
+    .filter-btn {
+        padding: 8px 20px;
+        font-size: 0.9rem;
+    }
+    
+    .projects-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .view-all-btn {
+        padding: 12px 30px;
+        font-size: 1rem;
+    }
+    
+    .makerspace-categories {
+        grid-template-columns: 1fr;
+    }
+    
+    .category-card {
+        padding: 30px 15px;
+    }
+    
+    .category-icon {
+        font-size: 50px;
+    }
+    
+    .webdev-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .inspiration-btn {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+    
+    .contact-form {
+        padding: 20px;
+    }
+    
+    .form-group input,
+    .form-group textarea {
+        padding: 12px 40px 12px 12px;
+        font-size: 0.95rem;
+    }
+    
+    .submit-btn {
+        padding: 12px;
+        font-size: 1rem;
+    }
+    
+    .modal-content {
+        padding: 20px;
+    }
+    
+    .modal-body {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .section-title {
+        font-size: 1.8rem;
+    }
+    
+    .title-icon {
+        font-size: 2rem;
+    }
+    
+    .glitch {
+        font-size: 2rem;
+    }
+    
+    .typing-container {
+        font-size: 1rem;
+    }
+    
+    .cursor-blink {
+        font-size: 1rem;
+    }
+    
+    .cta-button {
+        padding: 10px 20px;
+        font-size: 0.95rem;
+    }
+    
+    .navbar {
+        gap: 8px;
+        padding: 8px 10px;
+    }
+    
+    .nav-item {
+        font-size: 14px;
+        padding: 6px 8px;
+    }
+    
+    .nav-item::before {
+        display: none;
+    }
+    
+    .music-toggle,
+    .theme-toggle {
+        width: 35px;
+        height: 35px;
+        font-size: 14px;
+    }
+    
+    .music-btn {
+        width: 30px;
+        height: 30px;
+        font-size: 12px;
+    }
+    
+    .volume-control i {
+        font-size: 12px;
+    }
+    
+    #volume-slider {
+        width: 60px;
+    }
+    
+    .skills-orbit-container {
+        width: 280px;
+        height: 280px;
+    }
+    
+    .central-planet {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .planet-core {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .central-planet p {
+        font-size: 1rem;
+    }
+    
+    .skill-item {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .skill-item img {
+        width: 25px;
+        height: 25px;
+    }
+    
+    .skill-item span {
+        font-size: 0.5rem;
+    }
+    
+    .orbit-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+    
+    .filter-btn {
+        padding: 6px 15px;
+        font-size: 0.85rem;
+    }
+    
+    .project-card {
+        padding: 15px;
+    }
+    
+    .project-card h3 {
+        font-size: 1.1rem;
+    }
+    
+    .project-card p {
+        font-size: 0.85rem;
+    }
+    
+    .project-btn {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+    
+    .view-all-btn {
+        padding: 10px 25px;
+        font-size: 0.95rem;
+    }
+    
+    .category-card {
+        padding: 25px 15px;
+    }
+    
+    .category-icon {
+        font-size: 40px;
+    }
+    
+    .category-card h3 {
+        font-size: 1.3rem;
+    }
+    
+    .inspiration-btn {
+        padding: 10px 20px;
+        font-size: 0.95rem;
+    }
+    
+    .idea-card {
+        padding: 20px;
+    }
+    
+    .idea-card h3 {
+        font-size: 1.1rem;
+    }
+    
+    .idea-card p {
+        font-size: 0.85rem;
+    }
+    
+    .tag {
+        padding: 4px 10px;
+        font-size: 0.75rem;
+    }
+    
+    .save-idea-btn {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 400px) {
+    .social-links {
+        flex-wrap: wrap;
+    }
+    
+    .social-icon {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+    
+    .github-stats {
+        gap: 10px;
+    }
+    
+    .stat-item {
+        padding: 10px;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .stat-item h3 {
+        font-size: 20px;
+    }
+    
+    .stat-item p {
+        font-size: 11px;
+    }
+}
+
+@media (hover: none) and (pointer: coarse) {
+    .cursor,
+    .cursor-trail {
+        display: none;
+    }
+    
+    * {
+        cursor: auto !important;
+    }
+    
+    .nav-item::before,
+    .social-icon::before {
+        display: none;
+    }
+    
+    .fact-item::after {
+        position: static;
+        transform: none;
+        opacity: 1;
+        display: block;
+        margin-top: 10px;
+    }
+}
